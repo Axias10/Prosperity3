@@ -1,3 +1,5 @@
+Top #164 World and #13 France
+
 # First Round
 Kelp, Squid Ink, Rainforest --> Mean Reversion Strategy avec Z score faible constant pour l'un, dynamique pour rainforest
 
@@ -10,5 +12,5 @@ Ajout des Options Volcanick Voucher ou il fallait calculer la vol implciite avec
 # Fourth Round 
 Ajout des MAcarons dont on devait trouver une formule a partir des sunligh droits de douane etc pour connaitre un modèle de pred du prix des macarons
 
-#Five round
+# Five round
 Copy trading en connaissant les trades des bot contre qui on trade
